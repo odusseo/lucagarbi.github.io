@@ -1,14 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Luca Site</title>
+    <title>Tags on Academia</title>
     <link>http://lucagarbi.space/tags/</link>
-    <description>Recent content in Tags on My New Luca Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tags on Academia</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://lucagarbi.space/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://lucagarbi.space/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Source Themes</title>
+      <link>http://lucagarbi.space/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://lucagarbi.space/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>http://lucagarbi.space/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human</title>
+      <link>http://lucagarbi.space/tags/human/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/tags/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>http://lucagarbi.space/tags/robotics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>http://lucagarbi.space/tags/academia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/tags/academia/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
