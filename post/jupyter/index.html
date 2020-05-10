@@ -22,7 +22,7 @@
   
   
 
-  <meta name="author" content="Michael Vahn">
+  <meta name="author" content="Luca Garbi">
 
   
   
@@ -31,6 +31,8 @@
   
   <meta name="description" content="Learn how to blog in academia using Jupyter notebooks">
 
+  
+  <link rel="alternate" hreflang="it" href="http://lucagarbi.space/it/post/jupyter/">
   
   <link rel="alternate" hreflang="en-us" href="http://lucagarbi.space/post/jupyter/">
 
@@ -77,7 +79,7 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
   
 
   
@@ -88,6 +90,20 @@
   
 
   
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-165790939-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
   
   
 
@@ -107,9 +123,12 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Academia">
+  <meta property="twitter:site" content="@GarbiLuca">
+  <meta property="twitter:creator" content="@GarbiLuca">
+  
+  <meta property="og:site_name" content="Luca Garbi">
   <meta property="og:url" content="http://lucagarbi.space/post/jupyter/">
-  <meta property="og:title" content="Display Jupyter Notebooks with academia | Academia">
+  <meta property="og:title" content="Display Jupyter Notebooks with academia | Luca Garbi">
   <meta property="og:description" content="Learn how to blog in academia using Jupyter notebooks"><meta property="og:image" content="http://lucagarbi.space/post/jupyter/featured.jpg">
   <meta property="twitter:image" content="http://lucagarbi.space/post/jupyter/featured.jpg"><meta property="og:locale" content="en-us">
   
@@ -127,7 +146,7 @@
 
 
 
-  <title>Display Jupyter Notebooks with academia | Academia</title>
+  <title>Display Jupyter Notebooks with academia | Luca Garbi</title>
 
 </head>
 
@@ -149,7 +168,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -170,7 +190,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Academia</a>
+      <a class="navbar-brand" href="/">Luca Garbi</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
       </button>
@@ -236,35 +256,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/#projects"><span>Projects</span></a>
         </li>
 
@@ -294,7 +285,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/#talks"><span>UNI Courses</span></a>
         </li>
 
         
@@ -316,36 +307,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/files/CV_Garbi_en.pdf"><span>CV</span></a>
         </li>
 
         
@@ -356,9 +318,33 @@
         
 
         
-
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
         
 
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+            <i class="fas fa-globe" aria-hidden="true"></i>
+            <span>English</span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="http://lucagarbi.space/it/post/jupyter/">
+                <span>Italiano</span>
+              </a>
+            </li>
+            
+          </ul>
+        </li>
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
         
 
       </ul>
@@ -416,7 +402,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Michael Vahn</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Luca Garbi</a></span>
 
   </div>
   
@@ -628,16 +614,14 @@ rm Untitled.md
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="http://lucagarbi.space/">Michael Vahn</a></h5>
-      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
-      <p class="card-text" itemprop="description">My research interests include distributed robotics, mobile computing and programmable matter.</p>
+      <h5 class="card-title" itemprop="name"><a href="http://lucagarbi.space/">Luca Garbi</a></h5>
+      <h6 class="card-subtitle">Physics Student</h6>
+      <p class="card-text" itemprop="description">Homines, nihil agendo, agere consuescunt male.</p>
       <ul class="network-icon" aria-hidden="true">
         
           
           
           
-            
-          
           
           
           
@@ -645,8 +629,8 @@ rm Untitled.md
             
           
           <li>
-            <a itemprop="sameAs" href="/#contact" >
-              <i class="fas fa-envelope"></i>
+            <a itemprop="sameAs" href="/files/CV_Garbi_en.pdf" >
+              <i class="ai ai-cv"></i>
             </a>
           </li>
         
@@ -662,23 +646,8 @@ rm Untitled.md
             
           
           <li>
-            <a itemprop="sameAs" href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
+            <a itemprop="sameAs" href="https://linkedin.com/in/luca-garbi" target="_blank" rel="noopener">
+              <i class="fab fa-linkedin"></i>
             </a>
           </li>
         
@@ -694,8 +663,25 @@ rm Untitled.md
             
           
           <li>
-            <a itemprop="sameAs" href="https://github.com/gcushen" target="_blank" rel="noopener">
+            <a itemprop="sameAs" href="https://github.com/odusseo" target="_blank" rel="noopener">
               <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.instagram.com/luca_garbi/" target="_blank" rel="noopener">
+              <i class="fab fa-instagram"></i>
             </a>
           </li>
         
@@ -760,18 +746,52 @@ rm Untitled.md
     
 
     
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
 
     
     
-
     
     
     
@@ -779,12 +799,12 @@ rm Untitled.md
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academia.min.7276a6a3624de715a5c7f54c7c07696d.js"></script>
+    <script src="/js/academia.min.e4fc229c2f28284fc2dfa5b66a52b765.js"></script>
 
     
 
@@ -811,64 +831,6 @@ rm Untitled.md
       <div class="col-md-6">
         <ul class="list-inline network-icon text-right">
           
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <li class="list-inline-item">
-            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-          </li>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <li class="list-inline-item">
-            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
-          </li>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <li class="list-inline-item">
-            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
-          </li>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <li class="list-inline-item">
-            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
-          </li>
           
         </ul>
       </div>
