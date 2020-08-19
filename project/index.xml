@@ -54,6 +54,21 @@ heralded signal in the mid infrared.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Swinging Atwood&#39;s machine</title>
+      <link>http://lucagarbi.space/project/sam-sam/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/sam-sam/</guid>
+      <description>&lt;p&gt;This project was conceived in the context of an honour program (PAF) at the Department of Physics of the University of Trento during the fall semester of 2018. It has later been modified, corrected and translated.&lt;/p&gt;
+&lt;p&gt;The Swinging Atwood’s machine is a system similar to the Atwood’s pulley, except
+for the degrees of freedom of one of its two masses. Indeed it can swing in a bidimensional plane, producing a system that - for some values of parameters and initial conditions - turns out to be chaotic. This machine consists of two masses connected by an inextensible and massless rope, that can move on two
+radiusless and massless pulleys. Moreover the two masses can not collide.
+The study of the Swinging Atwood&amp;rsquo;s machine dynamics is made with Lagrangian mechanics.
+Numerical and graphical simulations of the chaotic system are made and the Lyapunov&amp;rsquo;s exponent is calculated for a thousand values of mass ratio.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MC &amp; QMC methods in Finance</title>
       <link>http://lucagarbi.space/project/mc-qmc/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -65,17 +80,12 @@ Both codes, in C language, are present in Appendix.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Swinging Atwood&#39;s machine</title>
-      <link>http://lucagarbi.space/project/sam-sam/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Modelling phototransduction and other biochemical networks</title>
+      <link>http://lucagarbi.space/project/winter-school/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lucagarbi.space/project/sam-sam/</guid>
-      <description>&lt;p&gt;This project was conceived in the context of an honour program (PAF) at the Department of Physics of the University of Trento during the fall semester of 2018. It has later been modified, corrected and translated.&lt;/p&gt;
-&lt;p&gt;The Swinging Atwood’s machine is a system similar to the Atwood’s pulley, except
-for the degrees of freedom of one of its two masses. Indeed it can swing in a bidimensional plane, producing a system that - for some values of parameters and initial conditions - turns out to be chaotic. This machine consists of two masses connected by an inextensible and massless rope, that can move on two
-radiusless and massless pulleys. Moreover the two masses can not collide.
-The study of the Swinging Atwood&amp;rsquo;s machine dynamics is made with Lagrangian mechanics.
-Numerical and graphical simulations of the chaotic system are made and the Lyapunov&amp;rsquo;s exponent is calculated for a thousand values of mass ratio.&lt;/p&gt;
+      <guid>http://lucagarbi.space/project/winter-school/</guid>
+      <description>&lt;p&gt;This report is based on the hands-on session, given at the University of Trento by Prof. Daniele Dell’Orco, on January 29th, 2020, in the context of the Winter School on Physics of the Cell. The objective of this write-up is on one hand to briefly synthesize the lecture on the modelling of dynamic biophysical systems, on the other hand to implement a simplified model of phototransduction via the ODEbased version of IQMtools, i.e. a MATLAB toolbox used in class for the implementation of a different biophysical system.&lt;/p&gt;
 </description>
     </item>
     
