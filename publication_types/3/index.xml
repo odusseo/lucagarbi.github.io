@@ -18,7 +18,17 @@
       
       <guid>http://lucagarbi.space/publication/lab2/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Below are the reports of the lab sessions for the course Laboratory of Physics II. The course was held by prof. William Joseph Weber during the fall semester and first-half of the spring semester of a.y. 2018/2019 at the University of Trento. The group of work consisted of me and &lt;em&gt;Roberto Brognoli&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The reports (only in Italian) include the experiences on analog multimeters, passive filters, diodes used for full-wave rectifiers and discrete amplifiers.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/First_Comput_Garbi.pdf&#34;&gt;MULTIMETRI ANALOGICI&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Comput_Garbi.pdf&#34;&gt;FILTRI RC, RL E RLC&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Comput_Garbi.pdf&#34;&gt;DIODI E PONTE DI GRAETZ&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fourth_Comput_Garbi.pdf&#34;&gt;AMPLIFICATORE DIFFERENZIALE, PONTE DI WHEATSTONE, EFFETTO FARADAY&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/odusseo/Electronics-Lab&#34;&gt;Here&lt;/a&gt; some scripts used for the data analysis can be downloaded.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: The MATLAB scripts are unreviewed and partially uncommented, handle with care.&lt;/p&gt;
 </description>
     </item>
     
@@ -29,7 +39,14 @@
       
       <guid>http://lucagarbi.space/publication/lab1/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Below are the reports of the projects assigned for the course of Laboratory of Physics at the University of Trento. The course was held by prof. Andrea Prodi during the spring semester of the a.y. 2017/2018. The group of work consisted of me, &lt;em&gt;Gabriele Libardi&lt;/em&gt; and &lt;em&gt;Filippo Dal Farra&lt;/em&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/First_Lab1_Garbi.pdf&#34;&gt;Misura su una popolazione di cilindretti e periodo del pendolo&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Lab1_Garbi.pdf&#34;&gt;Verifica della legge di Hooke&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Lab1_Garbi.pdf&#34;&gt;Stima dell&amp;rsquo;accelerazione di gravità terrestre con misure su un pendolo&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fourth_Lab1_Garbi.pdf&#34;&gt;Stima della temperatura dello zero assoluto con misure su un gas&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     

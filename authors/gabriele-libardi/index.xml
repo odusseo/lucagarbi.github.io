@@ -19,7 +19,18 @@
       <guid>http://lucagarbi.space/publication/computational/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Below are the reports of the projects assigned for the course of Computational Physics at the University of Trento. The course was held by prof. Francesco Pederiva during the spring semester of the a.y. 2019/2020. The group of work consisted of me, &lt;em&gt;Matteo Cescato&lt;/em&gt; and &lt;em&gt;Gabriele Libardi&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The reports (only in Italian) include a brief theoretical introduction, a description of the code and the results obtained. The complete code is given in the appendix of each report.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/First_Comput_Garbi.pdf&#34;&gt;QUANTIZZAZIONE SEMICLASSICA DEI
+LIVELLI VIBRAZIONALI&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Comput_Garbi.pdf&#34;&gt;STELLA DI NEUTRONI&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Comput_Garbi.pdf&#34;&gt;L’EQUAZIONE DI BLACK-SCHOLES&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fourth_Comput_Garbi.pdf&#34;&gt;DINAMICA MOLECOLARE DI UN GAS DI
+XENON&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fifth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fifth_Comput_Garbi.pdf&#34;&gt;SIMULAZIONE MONTE CARLO DI UN GAS DI
+ARGON&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -31,7 +42,12 @@
       <guid>http://lucagarbi.space/publication/nuclear/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Notes (in Italian) of the entire course of Nuclear and Subnuclear physics at the University of Trento. The course was held by prof. Giuseppina Orlandini during the spring semester of the a.y. 2019/2020.&lt;/p&gt;
+&lt;p&gt;This work is the result of a &lt;strong&gt;titanic&lt;/strong&gt; effort made by me and &lt;em&gt;Gabriele Libardi&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Nuclear_Notes_Garbi.pdf&#34;&gt;Nuclear and Subnuclear Physics Notes&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: These notes are only partially reviewed and could contain several typos along with conceptual errors, handle with care.&lt;/p&gt;
 </description>
     </item>
     
@@ -43,7 +59,13 @@
       <guid>http://lucagarbi.space/publication/calculus3/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Notes, in Italian, of the first part (up until the 16th of November) of the course Calculus III at the University of Trento. The course was held by prof. Romeo Brunetti during the fall semester of the a.y. 2018/2019.&lt;/p&gt;
+&lt;p&gt;These notes are the result of the work made by me and &lt;em&gt;Gabriele Libardi&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Calculus_III_Garbi.pdf&#34;&gt;Calculus III Notes - Analisi 3&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/odusseo/Calculus-3-notes&#34;&gt;Here&lt;/a&gt; the Tex file can be downloaded.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: The notes are unreviewed, handle with care.&lt;/p&gt;
 </description>
     </item>
     
@@ -54,7 +76,14 @@
       
       <guid>http://lucagarbi.space/publication/lab1/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Below are the reports of the projects assigned for the course of Laboratory of Physics at the University of Trento. The course was held by prof. Andrea Prodi during the spring semester of the a.y. 2017/2018. The group of work consisted of me, &lt;em&gt;Gabriele Libardi&lt;/em&gt; and &lt;em&gt;Filippo Dal Farra&lt;/em&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/First_Lab1_Garbi.pdf&#34;&gt;Misura su una popolazione di cilindretti e periodo del pendolo&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Lab1_Garbi.pdf&#34;&gt;Verifica della legge di Hooke&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Lab1_Garbi.pdf&#34;&gt;Stima dell&amp;rsquo;accelerazione di gravità terrestre con misure su un pendolo&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fourth_Lab1_Garbi.pdf&#34;&gt;Stima della temperatura dello zero assoluto con misure su un gas&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     

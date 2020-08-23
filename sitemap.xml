@@ -3,51 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lucagarbi.space/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/example.1/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/example.2/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/example.1/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/example.2/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/example.2/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/example.1/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://lucagarbi.space/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -138,12 +93,12 @@
   </url>
   
   <url>
-    <loc>http://lucagarbi.space/tags/source-themes/</loc>
+    <loc>http://lucagarbi.space/tags/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lucagarbi.space/tags/</loc>
+    <loc>http://lucagarbi.space/tags/university-of-trento-material/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -175,11 +130,6 @@
   <url>
     <loc>http://lucagarbi.space/authors/lisa-da-vinchie/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lucagarbi.space/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -218,6 +168,11 @@
   </url>
   
   <url>
+    <loc>http://lucagarbi.space/publication/miscellaneous/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lucagarbi.space/project/winter-school/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -248,6 +203,10 @@
   
   <url>
     <loc>http://lucagarbi.space/talk/coding/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lucagarbi.space/courses/</loc>
   </url>
   
 </urlset>

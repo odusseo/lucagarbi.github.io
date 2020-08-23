@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of Trento Material on Luca Garbi</title>
+    <link>http://lucagarbi.space/tags/university-of-trento-material/</link>
+    <description>Recent content in University of Trento Material on Luca Garbi</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://lucagarbi.space/tags/university-of-trento-material/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computational physics</title>
+      <link>http://lucagarbi.space/publication/computational/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/publication/computational/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Below are the reports of the projects assigned for the course of Computational Physics at the University of Trento. The course was held by prof. Francesco Pederiva during the spring semester of the a.y. 2019/2020. The group of work consisted of me, &lt;em&gt;Matteo Cescato&lt;/em&gt; and &lt;em&gt;Gabriele Libardi&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The reports (only in Italian) include a brief theoretical introduction, a description of the code and the results obtained. The complete code is given in the appendix of each report.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/First_Comput_Garbi.pdf&#34;&gt;QUANTIZZAZIONE SEMICLASSICA DEI
+LIVELLI VIBRAZIONALI&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Comput_Garbi.pdf&#34;&gt;STELLA DI NEUTRONI&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Comput_Garbi.pdf&#34;&gt;L’EQUAZIONE DI BLACK-SCHOLES&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fourth_Comput_Garbi.pdf&#34;&gt;DINAMICA MOLECOLARE DI UN GAS DI
+XENON&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fifth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fifth_Comput_Garbi.pdf&#34;&gt;SIMULAZIONE MONTE CARLO DI UN GAS DI
+ARGON&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nuclear and Subnuclear physics</title>
+      <link>http://lucagarbi.space/publication/nuclear/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/publication/nuclear/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Notes (in Italian) of the entire course of Nuclear and Subnuclear physics at the University of Trento. The course was held by prof. Giuseppina Orlandini during the spring semester of the a.y. 2019/2020.&lt;/p&gt;
+&lt;p&gt;This work is the result of a &lt;strong&gt;titanic&lt;/strong&gt; effort made by me and &lt;em&gt;Gabriele Libardi&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Nuclear_Notes_Garbi.pdf&#34;&gt;Nuclear and Subnuclear Physics Notes&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: These notes are only partially reviewed and could contain several typos along with conceptual errors, handle with care.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laboratory of Physics II - Electronics</title>
+      <link>http://lucagarbi.space/publication/lab2/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/publication/lab2/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Below are the reports of the lab sessions for the course Laboratory of Physics II. The course was held by prof. William Joseph Weber during the fall semester and first-half of the spring semester of a.y. 2018/2019 at the University of Trento. The group of work consisted of me and &lt;em&gt;Roberto Brognoli&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The reports (only in Italian) include the experiences on analog multimeters, passive filters, diodes used for full-wave rectifiers and discrete amplifiers.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/First_Comput_Garbi.pdf&#34;&gt;MULTIMETRI ANALOGICI&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Comput_Garbi.pdf&#34;&gt;FILTRI RC, RL E RLC&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Comput_Garbi.pdf&#34;&gt;DIODI E PONTE DI GRAETZ&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fourth_Comput_Garbi.pdf&#34;&gt;AMPLIFICATORE DIFFERENZIALE, PONTE DI WHEATSTONE, EFFETTO FARADAY&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/odusseo/Electronics-Lab&#34;&gt;Here&lt;/a&gt; some scripts used for the data analysis can be downloaded.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: The MATLAB scripts are unreviewed and partially uncommented, handle with care.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laboratory of inorganic Chemistry</title>
+      <link>http://lucagarbi.space/publication/chemistry/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/publication/chemistry/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Below are the reports of the lab sessions for the course of Chemistry. The course was held by prof. Graziano Guella during the spring semester of a.y. 2018/2019 at the University of Trento. The group of work consisted of me, &lt;em&gt;Fabio Giordano&lt;/em&gt; and &lt;em&gt;Lisa Da Vinchie&lt;/em&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/First_Chem_Garbi.pdf&#34;&gt;Soluzioni elettrolitiche: conducibilità e titolazione&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Chem_Garbi.pdf&#34;&gt;Titolazione attraverso reazioni acido-base&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Chem_Garbi.pdf&#34;&gt;Celle galvaniche ed equazione di Nernst&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calculus III</title>
+      <link>http://lucagarbi.space/publication/calculus3/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/publication/calculus3/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Notes, in Italian, of the first part (up until the 16th of November) of the course Calculus III at the University of Trento. The course was held by prof. Romeo Brunetti during the fall semester of the a.y. 2018/2019.&lt;/p&gt;
+&lt;p&gt;These notes are the result of the work made by me and &lt;em&gt;Gabriele Libardi&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Calculus_III_Garbi.pdf&#34;&gt;Calculus III Notes - Analisi 3&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/odusseo/Calculus-3-notes&#34;&gt;Here&lt;/a&gt; the Tex file can be downloaded.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: The notes are unreviewed, handle with care.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laboratory of Physical Sciences I</title>
+      <link>http://lucagarbi.space/publication/lab1/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/publication/lab1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Below are the reports of the projects assigned for the course of Laboratory of Physics at the University of Trento. The course was held by prof. Andrea Prodi during the spring semester of the a.y. 2017/2018. The group of work consisted of me, &lt;em&gt;Gabriele Libardi&lt;/em&gt; and &lt;em&gt;Filippo Dal Farra&lt;/em&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/First_Lab1_Garbi.pdf&#34;&gt;Misura su una popolazione di cilindretti e periodo del pendolo&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Lab1_Garbi.pdf&#34;&gt;Verifica della legge di Hooke&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Lab1_Garbi.pdf&#34;&gt;Stima dell&amp;rsquo;accelerazione di gravità terrestre con misure su un pendolo&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Fourth_Lab1_Garbi.pdf&#34;&gt;Stima della temperatura dello zero assoluto con misure su un gas&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Material</title>
+      <link>http://lucagarbi.space/publication/miscellaneous/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/publication/miscellaneous/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/SAM_ITA.pdf&#34;&gt;Here&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt; the italian version of the Swinging Atwood&amp;rsquo;s machine work can be downloaded. For more information visit the Swinging Atwood&amp;rsquo;s machine &lt;a href=&#34;http://lucagarbi.space/project/sam-sam/&#34;&gt;project page&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
