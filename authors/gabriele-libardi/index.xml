@@ -6,10 +6,39 @@
     <description>Recent content in Gabriele Libardi on Luca Garbi</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://lucagarbi.space/authors/gabriele-libardi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Laboratory of Physics III</title>
+      <link>http://lucagarbi.space/publication/lab3/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/publication/lab3/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Below are the reports of the lab sessions for the course Laboratory of Physics III. The course was held by prof. Leonardo Ricci during the fall semester and first-half of the spring semester of a.y. 2019/2020 at the University of Trento. The group of work consisted of me, &lt;em&gt;Gabriele Libardi&lt;/em&gt; and &lt;em&gt;Roberto Brognoli&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The reports (only in Italian) include also a brief theoretical introduction.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/1_Lab3_Garbi.pdf&#34;&gt;Cavi coassiali&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/2_Lab3_Garbi.pdf&#34;&gt;Riflessione in cavi coassiali&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/3_Lab3_Garbi.pdf&#34;&gt;Op-Amp come follower e peak detector&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/4_Lab3_Garbi.pdf&#34;&gt;Op-Amp come amplificatore e open loop gain&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fifth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/5_Lab3_Garbi.pdf&#34;&gt;Filtri attivi&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Sixth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/6_Lab3_Garbi.pdf&#34;&gt;Op-amp come oscillatore&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Seventh Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/7_Lab3_Garbi.pdf&#34;&gt;Sorgente di corrente di Howland e ponte di Wien&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Eighth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/8_Lab3_Garbi.pdf&#34;&gt;Campionamento e ricostruzione di un segnale&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Ninth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/9_Lab3_Garbi.pdf&#34;&gt;Porte logiche, tempo di propagazione di un segnale e flip-flop RS&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Tenth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/10_Lab3_Garbi.pdf&#34;&gt;Elettronica digitale sequenziale&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Eleventh Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/11_Lab3_Garbi.pdf&#34;&gt;Conversione DA e AD&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Twelfth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/12_Lab3_Garbi.pdf&#34;&gt;Generatore di sequenze pseudorandom e di rumore bianco&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Thirteenth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/13_Lab3_Garbi.pdf&#34;&gt;Simulazione esame&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Fourteenth Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/14_Lab3_Garbi.pdf&#34;&gt;Chua’s circuit&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Computational physics</title>

@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Luca Garbi</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://lucagarbi.space/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>http://lucagarbi.space/authors/admin/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://lucagarbi.space/authors/admin/</guid>
       <description>&lt;p&gt;I am a physics and technology color blind enthusiast, currently pursuing a Master&amp;rsquo;s Degree in physics at ETH Zürich.&lt;/p&gt;
@@ -24,9 +24,18 @@
     <item>
       <title>Gabriele Libardi</title>
       <link>http://lucagarbi.space/authors/gabriele-libardi/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://lucagarbi.space/authors/gabriele-libardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Brognoli</title>
+      <link>http://lucagarbi.space/authors/roberto-brognoli/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/authors/roberto-brognoli/</guid>
       <description></description>
     </item>
     
@@ -36,15 +45,6 @@
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://lucagarbi.space/authors/matteo-cescato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roberto Brognoli</title>
-      <link>http://lucagarbi.space/authors/roberto-brognoli/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://lucagarbi.space/authors/roberto-brognoli/</guid>
       <description></description>
     </item>
     
