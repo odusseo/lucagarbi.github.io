@@ -80,6 +80,31 @@ Both codes, in C language, are present in Appendix.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Index Futures Strategies Library</title>
+      <link>http://lucagarbi.space/project/trading-strat/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/trading-strat/</guid>
+      <description>&lt;p&gt;My earliest attempt at active investing, carried out during the summer-break of my second year of Bachelor&amp;rsquo;s studies in physics.&lt;/p&gt;
+&lt;p&gt;I used the MetaTrader environment (mainly exploiting the MQL5 language, which is free and based on C++) for developing algorithmic trading strategies based on technical analysis, in particular price patterns. The strategies were subsequently back-tested for some in-sample data and optimized using parametric sweeps and genetic algorithms.&lt;/p&gt;
+&lt;p&gt;Some (out-of-sample) profitable systems went live, but there has been no further development, nor creation of new systems since. This is mainly due to the resumption of the studies, plus the quick realization that the combined effects of high fees, slippage and data quality (all factors limited by my capital at the time) were not able to surpass traditional passive investing returns.&lt;/p&gt;
+&lt;p&gt;In the attachment are present a couple of simple trading strategies, plus a sample of the pattern library I used for futures on indices (mainly DAX and FTMIB).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ELETTRA Synchrotron Simulation</title>
+      <link>http://lucagarbi.space/project/elettra/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/elettra/</guid>
+      <description>&lt;p&gt;This project was conceived in the context of an honour program (PAF) at the Department of Physics of the University of Trento during the spring semester of 2018.&lt;/p&gt;
+&lt;p&gt;The initial aim was to create the more accurate simulation possible of the ELETTRA synchrotron in Trieste, Italy. The code was initially written in MATLAB, then in Python. This was the result obtained at the end of the semester, when the project on the &lt;a href=&#34;http://lucagarbi.space/project/sam-sam/&#34; title=&#34;Swinging Attwood&#39;s Machine&#34;&gt;Swinging Attwood&amp;rsquo;s Machine&lt;/a&gt; started.
+I do not dispose of the proper documentation and a clean code like in that case, but plan to write it in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Modelling phototransduction and other biochemical networks</title>
       <link>http://lucagarbi.space/project/winter-school/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
