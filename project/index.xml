@@ -6,15 +6,51 @@
     <description>Recent content in Projects on Luca Garbi</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://lucagarbi.space/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ELETTRA Synchrotron Simulation</title>
+      <link>http://lucagarbi.space/project/elettra/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/elettra/</guid>
+      <description>&lt;p&gt;This project was conceived in the context of an honour program (PAF) at the Department of Physics of the University of Trento during the spring semester of 2018.&lt;/p&gt;
+&lt;p&gt;The initial aim was to create the more accurate simulation possible of the ELETTRA synchrotron in Trieste, Italy. The code was initially written in MATLAB, then in Python. This was the result obtained at the end of the semester, when the project on the &lt;a href=&#34;http://lucagarbi.space/project/sam-sam/&#34; title=&#34;Swinging Attwood&#39;s Machine&#34;&gt;Swinging Attwood&amp;rsquo;s Machine&lt;/a&gt; started.
+I do not dispose of the proper documentation and a clean code like in that case, but plan to write it in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MC &amp; QMC methods in Finance</title>
+      <link>http://lucagarbi.space/project/mc-qmc/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/mc-qmc/</guid>
+      <description>&lt;p&gt;In this work - currently only in Italian - Monte Carlo and Quasi-Monte Carlo methods are used in order to find the fair-value of derivative instruments, whose dynamic is given by the financial model of Black-Scholes-Merton. In particular, in the first part is present a MC alternative to the finite difference method in order to solve the Black-Scholes PDE. In the second part, instead, a comparison is made between Monte Carlo and Quasi-Monte Carlo when dealing with the Asian options pricing problem.
+Both codes, in C language, are present in Appendix.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Commodities and Equity Futures Trading Strategies Library</title>
+      <link>http://lucagarbi.space/project/trading-strat/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/trading-strat/</guid>
+      <description>&lt;p&gt;My earliest attempt at active investing, carried out during the summer-break of my second year of Bachelor&amp;rsquo;s studies in physics.&lt;/p&gt;
+&lt;p&gt;I used the MetaTrader environment (mainly exploiting the MQL5 language, which is free and based on C++) for developing algorithmic trading strategies based on technical analysis, in particular price patterns. The strategies were subsequently back-tested for some in-sample data and optimized using parametric sweeps and genetic algorithms.&lt;/p&gt;
+&lt;p&gt;Some (out-of-sample) profitable systems went live for a little less than a year (achieved 1.23 Sharpe during the period). There has been no further development after that, due to the resumption of the studies and work, plus the quick realization that the combined effects of high fees, slippage and data quality (all factors limited by my capital at the time) were not able to surpass traditional passive investing returns.&lt;/p&gt;
+&lt;p&gt;In the attachment are present a couple of simple trading strategies, plus a sample of the pattern library I used for futures on equity indices (mainly DAX and E-mini S&amp;amp;P 500).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Single photon source based on IFWM</title>
       <link>http://lucagarbi.space/project/bachelor-thesis/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://lucagarbi.space/project/bachelor-thesis/</guid>
       <description>&lt;p&gt;This project was conceived as the final project of my Bachelor&amp;rsquo;s studies at the Department of Physics of the University of Trento. The downloadable files are the thesis itself, the LaTex template and also the presentation used for the discussion.&lt;/p&gt;
@@ -56,7 +92,7 @@ heralded signal in the mid infrared.&lt;/p&gt;
     <item>
       <title>Swinging Atwood&#39;s machine</title>
       <link>http://lucagarbi.space/project/sam-sam/</link>
-      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://lucagarbi.space/project/sam-sam/</guid>
       <description>&lt;p&gt;This project was conceived in the context of an honour program (PAF) at the Department of Physics of the University of Trento during the fall semester of 2018. It has later been modified, corrected and translated.&lt;/p&gt;
@@ -69,45 +105,9 @@ Numerical and graphical simulations of the chaotic system are made and the Lyapu
     </item>
     
     <item>
-      <title>MC &amp; QMC methods in Finance</title>
-      <link>http://lucagarbi.space/project/mc-qmc/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://lucagarbi.space/project/mc-qmc/</guid>
-      <description>&lt;p&gt;In this work - currently only in Italian - Monte Carlo and Quasi-Monte Carlo methods are used in order to find the fair-value of derivative instruments, whose dynamic is given by the financial model of Black-Scholes-Merton. In particular, in the first part is present a MC alternative to the finite difference method in order to solve the Black-Scholes PDE. In the second part, instead, a comparison is made between Monte Carlo and Quasi-Monte Carlo when dealing with the Asian options pricing problem.
-Both codes, in C language, are present in Appendix.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Index Futures Strategies Library</title>
-      <link>http://lucagarbi.space/project/trading-strat/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://lucagarbi.space/project/trading-strat/</guid>
-      <description>&lt;p&gt;My earliest attempt at active investing, carried out during the summer-break of my second year of Bachelor&amp;rsquo;s studies in physics.&lt;/p&gt;
-&lt;p&gt;I used the MetaTrader environment (mainly exploiting the MQL5 language, which is free and based on C++) for developing algorithmic trading strategies based on technical analysis, in particular price patterns. The strategies were subsequently back-tested for some in-sample data and optimized using parametric sweeps and genetic algorithms.&lt;/p&gt;
-&lt;p&gt;Some (out-of-sample) profitable systems went live, but there has been no further development, nor creation of new systems since. This is mainly due to the resumption of the studies, plus the quick realization that the combined effects of high fees, slippage and data quality (all factors limited by my capital at the time) were not able to surpass traditional passive investing returns.&lt;/p&gt;
-&lt;p&gt;In the attachment are present a couple of simple trading strategies, plus a sample of the pattern library I used for futures on indices (mainly DAX and FTMIB).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ELETTRA Synchrotron Simulation</title>
-      <link>http://lucagarbi.space/project/elettra/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://lucagarbi.space/project/elettra/</guid>
-      <description>&lt;p&gt;This project was conceived in the context of an honour program (PAF) at the Department of Physics of the University of Trento during the spring semester of 2018.&lt;/p&gt;
-&lt;p&gt;The initial aim was to create the more accurate simulation possible of the ELETTRA synchrotron in Trieste, Italy. The code was initially written in MATLAB, then in Python. This was the result obtained at the end of the semester, when the project on the &lt;a href=&#34;http://lucagarbi.space/project/sam-sam/&#34; title=&#34;Swinging Attwood&#39;s Machine&#34;&gt;Swinging Attwood&amp;rsquo;s Machine&lt;/a&gt; started.
-I do not dispose of the proper documentation and a clean code like in that case, but plan to write it in the future.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Modelling phototransduction and other biochemical networks</title>
       <link>http://lucagarbi.space/project/winter-school/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>http://lucagarbi.space/project/winter-school/</guid>
       <description>&lt;p&gt;This report is based on the hands-on session, given at the University of Trento by Prof. Daniele Dell’Orco, on January 29th, 2020, in the context of the Winter School on Physics of the Cell. The objective of this write-up is on one hand to briefly synthesize the lecture on the modelling of dynamic biophysical systems, on the other hand to implement a simplified model of phototransduction via the ODEbased version of IQMtools, i.e. a MATLAB toolbox used in class for the implementation of a different biophysical system.&lt;/p&gt;

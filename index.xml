@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://lucagarbi.space/project/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://lucagarbi.space/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>University Material</title>
       <link>http://lucagarbi.space/publication/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://lucagarbi.space/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://lucagarbi.space/project/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/</guid>
       <description></description>
     </item>
     
