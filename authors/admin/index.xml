@@ -81,6 +81,18 @@ ARGON&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
     </item>
     
     <item>
+      <title>ELETTRA Synchrotron Simulation</title>
+      <link>http://lucagarbi.space/project/elettra/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/elettra/</guid>
+      <description>&lt;p&gt;This project was conceived in the context of an honour program (PAF) at the Department of Physics of the University of Trento during the spring semester of 2018.&lt;/p&gt;
+&lt;p&gt;The initial aim was to create the more accurate simulation possible of the ELETTRA synchrotron in Trieste, Italy. The code was initially written in MATLAB, then in Python. This was the result obtained at the end of the semester, when the project on the &lt;a href=&#34;http://lucagarbi.space/project/sam-sam/&#34; title=&#34;Swinging Attwood&#39;s Machine&#34;&gt;Swinging Attwood&amp;rsquo;s Machine&lt;/a&gt; started.
+I do not dispose of the proper documentation and a clean code like in that case, but plan to write it in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Laboratory of Physics II - Electronics</title>
       <link>http://lucagarbi.space/publication/lab2/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
@@ -115,6 +127,17 @@ ARGON&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;Second Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Second_Chem_Garbi.pdf&#34;&gt;Titolazione attraverso reazioni acido-base&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;Third Report - &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/Third_Chem_Garbi.pdf&#34;&gt;Celle galvaniche ed equazione di Nernst&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MC &amp; QMC methods in Finance</title>
+      <link>http://lucagarbi.space/project/mc-qmc/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/mc-qmc/</guid>
+      <description>&lt;p&gt;In this work - currently only in Italian - Monte Carlo and Quasi-Monte Carlo methods are used in order to find the fair-value of derivative instruments, whose dynamic is given by the financial model of Black-Scholes-Merton. In particular, in the first part is present a MC alternative to the finite difference method in order to solve the Black-Scholes PDE. In the second part, instead, a comparison is made between Monte Carlo and Quasi-Monte Carlo when dealing with the Asian options pricing problem.
+Both codes, in C language, are present in Appendix.&lt;/p&gt;
 </description>
     </item>
     
@@ -175,6 +198,19 @@ ARGON&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Commodities and Equity Futures Trading Strategies Library</title>
+      <link>http://lucagarbi.space/project/trading-strat/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/trading-strat/</guid>
+      <description>&lt;p&gt;My earliest attempt at active investing, carried out during the summer-break of my second year of Bachelor&amp;rsquo;s studies in physics.&lt;/p&gt;
+&lt;p&gt;I used the MetaTrader environment (mainly exploiting the MQL5 language, which is free and based on C++) for developing algorithmic trading strategies based on technical analysis, in particular price patterns. The strategies were subsequently back-tested for some in-sample data and optimized using parametric sweeps and genetic algorithms.&lt;/p&gt;
+&lt;p&gt;Some (out-of-sample) profitable systems went live for a little less than a year (achieved 1.23 Sharpe during the period). There has been no further development after that, due to the resumption of the studies and work, plus the quick realization that the combined effects of high fees, slippage and data quality (all factors limited by my capital at the time) were not able to surpass traditional passive investing returns.&lt;/p&gt;
+&lt;p&gt;In the attachment are present a couple of simple trading strategies, plus a sample of the pattern library I used for futures on equity indices (mainly DAX and E-mini S&amp;amp;P 500).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Laboratory of Physical Sciences I</title>
       <link>http://lucagarbi.space/publication/lab1/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
@@ -203,6 +239,63 @@ ARGON&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://lucagarbi.space/files/SAM_ITA.pdf&#34;&gt;Here&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt; the italian version of the Swinging Atwood&amp;rsquo;s machine work can be downloaded. For more information visit the Swinging Atwood&amp;rsquo;s machine &lt;a href=&#34;http://lucagarbi.space/project/sam-sam/&#34;&gt;project page&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single photon source based on IFWM</title>
+      <link>http://lucagarbi.space/project/bachelor-thesis/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/bachelor-thesis/</guid>
+      <description>&lt;p&gt;This project was conceived as the final project of my Bachelor&amp;rsquo;s studies at the Department of Physics of the University of Trento. The downloadable files are the thesis itself, the LaTex template and also the presentation used for the discussion.&lt;/p&gt;
+&lt;p&gt;Integrated single photon sources are key building blocks for on-chip quantum computation, quantum information and quantum technologies in general.
+Single photon states can be produced through a heralding process between correlated photon pairs generated via nonlinear optical processes. On-chip heralded single photon sources based on spontaneous four wave mixing have been
+already demonstrated. The purpose of this thesis is to show the advantages and
+potentialities of intermodal four wave mixing in the single photon generation
+framework. The photon source is developed on a silicon chip, the ideal platform for integrated nonlinear processes and scalable quantum devices, thanks
+also to its mature and cheap fabrication technology. A heralded single photon
+source based on a IFWM process in silicon waveguides is here demonstrated.
+In the first chapter the basics of the formation and propagation of waveguide
+modes are given, with a focus on optical multimode waveguides. Nonlinear
+optics is then introduced with a concise overview of the main second and third
+order nonlinear processes. A particular attention is paid to spontaneous four
+wave mixing and its inefficiencies in view of a single photon source application. Through this process, in fact, the signal and idler photons are generated
+close to the wavelength of the pump, thus limiting the generation spectrum.
+Moreover, narrow spectral post filtering is used to increase the spectral purity,
+limiting the brightness and the integration of these type of sources. Intermodal
+four wave mixing can be used to remove the need of tight spectral filtering and
+to achieve broad band quantum light generation, from the near to the mid infrared.
+The second chapter initially introduce some elements of photon statistics and
+deals with the basics of probabilistic single photon sources. A close attention is
+paid to heralded single photon sources and the experimental metrics necessary
+in order to characterize their performance. The last part of chapter 2 presents a
+heralded single photon source based on intermodal FWM on a SOI multimode
+waveguide. A description of the chip used, which has been fabricated by the
+Centre for Materials and Microsystems of Bruno Kessler Foundation (Trento,
+Italy), is initially provided. Next, the experimental set-up for the source characterization is described. The measurements have been carried out by dr. Stefano
+Signorini and Matteo Sanna (master student) in the Nanoscience Laboratory,
+in the Department of Physics of the University of Trento.
+The analysis I carried out on the measurements is presented in the last chapter
+of this thesis. The experimental demonstration of a silicon integrated source
+of heralded single photons is reported. The source exploits the intermodal
+four wave mixing to generate the heralding idler in the near infrared and the
+heralded signal in the mid infrared.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swinging Atwood&#39;s machine</title>
+      <link>http://lucagarbi.space/project/sam-sam/</link>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucagarbi.space/project/sam-sam/</guid>
+      <description>&lt;p&gt;This project was conceived in the context of an honour program (PAF) at the Department of Physics of the University of Trento during the fall semester of 2018. It has later been modified, corrected and translated.&lt;/p&gt;
+&lt;p&gt;The Swinging Atwood’s machine is a system similar to the Atwood’s pulley, except
+for the degrees of freedom of one of its two masses. Indeed it can swing in a bidimensional plane, producing a system that - for some values of parameters and initial conditions - turns out to be chaotic. This machine consists of two masses connected by an inextensible and massless rope, that can move on two
+radiusless and massless pulleys. Moreover the two masses can not collide.
+The study of the Swinging Atwood&amp;rsquo;s machine dynamics is made with Lagrangian mechanics.
+Numerical and graphical simulations of the chaotic system are made and the Lyapunov&amp;rsquo;s exponent is calculated for a thousand values of mass ratio.&lt;/p&gt;
 </description>
     </item>
     
